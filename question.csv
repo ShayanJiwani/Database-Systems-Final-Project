@@ -1,0 +1,18 @@
+a01,Year (Multiple Choice),mc,Freshman;Sophomore;Junior;Senior;Graduate
+a02,Sex (Multiple Choice),mc,Male;Female
+a03,Class Missed (Multiple Choice),mc,0%;1-5%;6-10%;11-15%;16-20%;21-25%;26-30%;21-40%;41-50%;51-60%;61-80%;81-99%
+a04,Major (Multiple Choice),mc,Applied Physics;Quantitative Science;Applied Mathematics;Physics;Biology;Chemistry;Sociology;Computer Science;Business;Mathematics & Computer Science;Business Administration;Undeclared;Economics & Mathematics;Economics
+a05,Expected Grade (Multiple Choice),mc,A;A-;B+;B;B-;C+;C;C-;D+;D;D-;F
+a06,Reason Taking Course (Multiple Choice),mc,Pre-Prof Requirement;Prerequisite;College Requirement Major;Interested
+a07,How well organized was the class? (1-10),ott,1;2;3;4;5;6;7;8;9;10
+a08,How concerned was the instructor with what students learned from the course? (1-10),ott,1;2;3;4;5;6;7;8;9;10
+a09,Were the grading criteria for the course clear? (1-10),ott,1;2;3;4;5;6;7;8;9;10
+b01,Was the instructor enthusiastic about the material? (1-10),ott,1;2;3;4;5;6;7;8;9;10
+b02,How much did the course promote your progress on acquiring factual knowledge? (1-10),ott,1;2;3;4;5;6;7;8;9;10
+b03,How much did the course promote your progress on understanding basic principles and concepts? (1-10),ott,1;2;3;4;5;6;7;8;9;10
+b04,I would recommend this course to another student. (Agree/Disagree),ad,Strongly Agree;Agree;Neutral;Disagree;Strongly Disagree
+b05,I would recommend this instructor to another student. (Agree/Disagree),ad,Strongly Agree;Agree;Neutral;Disagree;Strongly Disagree
+b06,Comment on the strengths of the instructor (Free-text),ftr,free
+b07,Comment on the weaknesses of the instructor (text),ftr,free
+b08,Comment on the strengths of the course (Free-text),ftr,free
+b09,Comment on the weaknesses of the course (text),ftr,free
